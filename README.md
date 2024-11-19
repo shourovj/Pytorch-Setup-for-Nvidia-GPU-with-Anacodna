@@ -1,2 +1,5 @@
 # Pytorch-Setup-for-GPU-with-Anacodna
-This repository contains the full step by step for setting up a pytorch environment with anconda locally
+Step-1: Check whether your system has nvidia gpu or not.
+---> Open the command prompt
+``` nvidia-smi```
+
